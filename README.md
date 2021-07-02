@@ -10,3 +10,4 @@ ServiceLevel
 ServerCapabilities -> OperationalLimits  
 ServerDiagnostics -> SessionDiagnostics -> Clientinformation  
 ...  
+maybe later GDS and LDS support  
