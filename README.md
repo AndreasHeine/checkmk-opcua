@@ -1,9 +1,9 @@
-# checkmk-opcua   
+## checkmk-opcua   
   
 # looking for sponsors!      
 contact: info@andreas-heine.net    
   
-## Monitoring of OPC UA Servers with checkmk  
+### Monitoring of OPC UA Servers with checkmk  
 Features:    
 ServerStatus  
 ServiceLevel  
