@@ -4,6 +4,9 @@
 contact: info@andreas-heine.net    
   
 ### Monitoring of OPC UA Servers with checkmk  
+
+Keep track of all your OPC UA Serveres by monitoring valuable information.  
+What kind of information could be monitored or displayed is shown below:  
    
 ## ServerStatus + ServiceLevel    
 ![serverstate](https://user-images.githubusercontent.com/56362817/124394445-c5e7b500-dcff-11eb-8ccd-a7ffc87801f1.PNG)  
@@ -20,7 +23,5 @@ contact: info@andreas-heine.net
 ## SubscriptionDiagnostics  
 ![subscription diagnostics](https://user-images.githubusercontent.com/56362817/124394486-f2033600-dcff-11eb-8f96-769c11d95f9b.PNG)  
 
-
-
 ...  
-maybe later GDS and LDS support  
+maybe later GDS and LDS support which would work like connecting to a DiscoveryServer and explore the known Servers dynamically  
