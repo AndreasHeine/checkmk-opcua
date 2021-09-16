@@ -9,8 +9,11 @@ Keep track of all your OPC UA Serveres by monitoring valuable information.
    
 ### Projectstatus  
 
-Writing technical Requirments, checking Documentations and gather Information!  
-Planing for a Proof of Concept as an ["Special Agent / API-Integration"](https://docs.checkmk.com/latest/en/devel_check_plugins.html)-Plugin  
+Writing technical requirments, checking documentations and gather information!  
+Planing for a proof of concept as an ["Special Agent / API-Integration"](https://docs.checkmk.com/latest/en/devel_check_plugins.html)-Plugin  
+The OPC UA Client part is already written with [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) for the information/variables below!  
+  
+feel free to use the discussions feature for asking questions or contact me directly  
    
 ### ServerStatus + ServiceLevel    
 ![serverstate](https://user-images.githubusercontent.com/56362817/124394445-c5e7b500-dcff-11eb-8ccd-a7ffc87801f1.PNG)  
