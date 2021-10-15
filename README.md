@@ -10,7 +10,7 @@ Keep track of all your OPC UA Serveres by monitoring valuable information.
 ### Projectstatus  
 
 Writing technical requirments, checking documentations and gather information!  
-Planing for a proof of concept as an ["Special Agent / API-Integration"](https://docs.checkmk.com/latest/en/devel_check_plugins.html)-Plugin  
+Planing for a proof of concept as an ["Special Agent or Active Check"](https://docs.checkmk.com/latest/en/devel_check_plugins.html) 
 The OPC UA Client part is already written with [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) for the information/variables below!  
   
 feel free to use the discussions feature for asking questions or contact me directly  
