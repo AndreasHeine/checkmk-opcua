@@ -42,12 +42,13 @@ Further development requires Sponsors!
 ### Planed Features
   
 Status | Sponsor | Feature  
-:new_moon: :x: User Authorization: Username/Password support  
-:new_moon: :x: User Authorization: Certificate support  
-:new_moon: :x: SecurityMode SIGN / SIGN&ENCRYPT (Policy: Basic256Sha256) support  
-:new_moon: :x: Support for OPC UA Tags with a Numeric DataType  
-:new_moon: :x: Support for OPC UA Tags with String DataType  
-:new_moon: :x: tbc...  
+|---|---|---|  
+:new_moon: | :x: | User Authorization: Username/Password support  
+:new_moon: | :x: | User Authorization: Certificate support  
+:new_moon: | :x: | SecurityMode SIGN / SIGN&ENCRYPT (Policy: Basic256Sha256) support  
+:new_moon: | :x: | Support for OPC UA Tags with a Numeric DataType  
+:new_moon: | :x: | Support for OPC UA Tags with String DataType  
+:new_moon: | :x: | tbc...  
   
 ## Usability and Concerns  
 Its not ment to be used as a SCADA replacement! Cyclic check with a cycletime less then the OPC UA Servers SessionTimeout is not recommended, if the Server does not support persistent Sessions (Reuse of Sessions), this could lead to a **"Denail of Service"** due to Session exhaustion (OPC UA Servers can only handle a finite number of Sessions e.g. PLC's mostly less then 50 but it depends on the used ServerProfile: https://profiles.opcfoundation.org/v104/reporting/)!  
