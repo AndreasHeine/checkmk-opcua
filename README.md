@@ -10,7 +10,7 @@ Keep track of all your OPC UA Serveres by monitoring valuable information.
 ## Projectstatus  
 
 :heavy_check_mark: Writing technical requirments, checking documentations and gather information!  
-:last_quarter_moon: Working on a Proof of Concept!  
+:full_moon: Working on a Proof of Concept (Testing)!  
   
 feel free to use the discussions feature for asking questions or contact me directly  
   
@@ -26,7 +26,7 @@ I will not write customer specific opc ua plugins which have to many similaritie
 Currently having multiple contacts from interested companys but there is no agreement at this point, but all share at least **90%** the same idea on how a CheckMK OPC UA Plugin should look like! If enought company's team up and share the developement cost it would speed up the whole process!  
   
 ## RoadMap  
-BasePlugin: 2021/Q1 (sponsored by Andreas Heine)  
+BasePlugin: 2021/Q2 (sponsored by Andreas Heine)  
 Limited functionality:
 OPC UA Client connects to a Endpoint-URL (e.g. „opc.tcp://127.0.0.1:4840“) using the "OPC UA Binary Protokoll" and reads ServerState (e.g. "0:Running") and ServiceLevel (e.g. "255") and returns a CheckResult (e.g. "CRIT")  
   
